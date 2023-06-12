@@ -31,6 +31,9 @@
                 android:layout_height="wrap_content"
                 android:layout_margin="10dp"
                 android:hint="Email:"
+                android:background="@drawable/edittext_background"
+                android:padding="15dp"
+                android:textColorHint="@android:color/black"
                 android:id="@+id/email_login"
 
                 />
@@ -39,6 +42,9 @@
                 android:layout_height="wrap_content"
                 android:layout_margin="10dp"
                 android:hint="Password:"
+                android:background="@drawable/edittext_background"
+                android:padding="15dp"
+                android:textColorHint="@android:color/black"
                 android:id="@+id/password_login"
 
                 />
@@ -47,6 +53,9 @@
                 android:layout_height="wrap_content"
                 android:layout_margin="10dp"
                 android:text="Log In"
+                android:background="@drawable/edittext_background"
+                android:padding="15dp"
+                android:textColorHint="@android:color/black"
                 android:id="@+id/btn_login"
                 android:textAppearance="?android:textAppearanceMedium"
                 />
