@@ -65,6 +65,7 @@
                 android:text="Already Have an Account ? Sign in Here"
                 android:textColor="@android:color/white"
                 android:id="@+id/signinhere"
+
                 android:padding="10dp"
                 />
 
