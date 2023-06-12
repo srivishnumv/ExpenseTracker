@@ -4,6 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:gravity="center"
+    android:background="@drawable/background_color"
     android:orientation="vertical"
     android:layout_height="match_parent"
     tools:context=".MainActivity">
@@ -22,6 +23,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="Log In"
+                android:textColor="@android:color/white"
                 android:textAppearance="@android:style/TextAppearance.Holo.Large"
                 android:gravity="center"/>
             <EditText
