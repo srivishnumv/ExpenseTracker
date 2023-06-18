@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "629956183546",
+    "project_id": "mad-expensetracker",
+    "storage_bucket": "mad-expensetracker.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:629956183546:android:726dfeaef3a2751a5f9043",
+        "android_client_info": {
+          "package_name": "com.example.sv1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "629956183546-v38fjbeulq4104mhrvf751er1bnqddne.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sv1",
+            "certificate_hash": "20d23dfc4aceba6f8cc12c419d6941ead84869d2"
+          }
+        },
+        {
+          "client_id": "629956183546-0g5cngh4q7km48iki9lcsn3933ctbauf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJCH2GK2wrKbTmbXjWfoMI4z-mKQ1ltMI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "629956183546-0g5cngh4q7km48iki9lcsn3933ctbauf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
